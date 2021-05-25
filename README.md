@@ -1,1 +1,1 @@
-# mini_game_JS
+# Mini game using JS
